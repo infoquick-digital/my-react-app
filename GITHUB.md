@@ -9,3 +9,7 @@
 8. git branch -M main
 9. git remote add origin https://github.com/infoquick-digital/my-react-app.git
 10. git push -u origin main
+
+1. git add GITHUB.md
+2. git commit -m "Initial commit w/line numbering"
+3. git push -u origin main
